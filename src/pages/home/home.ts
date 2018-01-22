@@ -10,7 +10,6 @@ import { HoldingsProvider } from '../../providers/holdings/holdings';
 export class HomePage {
 
   constructor(private navCtrl: NavController, private holdingsProvider: HoldingsProvider) {
-
   }
 
   ionViewDidLoad(): void {
